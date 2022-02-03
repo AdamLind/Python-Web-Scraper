@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"name": "Dev-fries",
+			"path": "..\\Bottega University\\Dev-fries"
+		},
+		{
+			"name": "My projects",
+			"path": "..\\Bottega University\\My projects"
+		},
+		{
+			"name": "Homework",
+			"path": "..\\Bottega University\\Homework"
+		},
+		{
+			"name": "daily-smarty",
+			"path": "..\\daily-smarty"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "My projects"
+	}
+}
